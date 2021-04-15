@@ -1,3 +1,4 @@
 U+2665
 $: 0xE2 0x99 0xA5
 u2605
+# still can't figure how to add special characters using bash script.
